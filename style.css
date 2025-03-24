@@ -115,7 +115,7 @@ nav ul li a:hover {
     width: 100%;
 }
 #about {
-    background-image: url(./asset/about\ image.gif);
+    background-image: url(Asset/Euy.jpg);
     background-position: right;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -126,6 +126,7 @@ nav ul li a:hover {
 }
 #about span {
     text-decoration: solid;
+    text-decoration: underline;
 }
 #about h2 {
   margin-top: 50px;
